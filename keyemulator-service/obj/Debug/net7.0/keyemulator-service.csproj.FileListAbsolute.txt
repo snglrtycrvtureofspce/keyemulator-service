@@ -1,0 +1,34 @@
+C:\Users\asp1r\OneDrive\Рабочий стол\keyemulator-service\keyemulator-service\bin\Debug\net7.0\keyemulator-service.exe
+C:\Users\asp1r\OneDrive\Рабочий стол\keyemulator-service\keyemulator-service\bin\Debug\net7.0\keyemulator-service.deps.json
+C:\Users\asp1r\OneDrive\Рабочий стол\keyemulator-service\keyemulator-service\bin\Debug\net7.0\keyemulator-service.runtimeconfig.json
+C:\Users\asp1r\OneDrive\Рабочий стол\keyemulator-service\keyemulator-service\bin\Debug\net7.0\keyemulator-service.dll
+C:\Users\asp1r\OneDrive\Рабочий стол\keyemulator-service\keyemulator-service\bin\Debug\net7.0\keyemulator-service.pdb
+C:\Users\asp1r\OneDrive\Рабочий стол\keyemulator-service\keyemulator-service\obj\Debug\net7.0\keyemulator-service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asp1r\OneDrive\Рабочий стол\keyemulator-service\keyemulator-service\obj\Debug\net7.0\keyemulator-service.AssemblyInfoInputs.cache
+C:\Users\asp1r\OneDrive\Рабочий стол\keyemulator-service\keyemulator-service\obj\Debug\net7.0\keyemulator-service.AssemblyInfo.cs
+C:\Users\asp1r\OneDrive\Рабочий стол\keyemulator-service\keyemulator-service\obj\Debug\net7.0\keyemulator-service.csproj.CoreCompileInputs.cache
+C:\Users\asp1r\OneDrive\Рабочий стол\keyemulator-service\keyemulator-service\obj\Debug\net7.0\keyemulator-service.dll
+C:\Users\asp1r\OneDrive\Рабочий стол\keyemulator-service\keyemulator-service\obj\Debug\net7.0\refint\keyemulator-service.dll
+C:\Users\asp1r\OneDrive\Рабочий стол\keyemulator-service\keyemulator-service\obj\Debug\net7.0\keyemulator-service.pdb
+C:\Users\asp1r\OneDrive\Рабочий стол\keyemulator-service\keyemulator-service\obj\Debug\net7.0\keyemulator-service.genruntimeconfig.cache
+C:\Users\asp1r\OneDrive\Рабочий стол\keyemulator-service\keyemulator-service\obj\Debug\net7.0\ref\keyemulator-service.dll
+C:\Users\asp1r\OneDrive\Рабочий стол\keyemulator-service\keyemulator-service\obj\Debug\net7.0\keyemulator-service.csproj.AssemblyReference.cache
+C:\Users\asp1r\OneDrive\Рабочий стол\keyemulator-service\keyemulator-service\bin\Debug\net7.0\WindowsInput.dll
+C:\Users\asp1r\OneDrive\Рабочий стол\keyemulator-service\keyemulator-service\obj\Debug\net7.0\keyemulator-service.csproj.CopyComplete
+C:\Users\asp1r\OneDrive\Документы\snglrtycrvtureofspce\Git\keyemulator-service\keyemulator-service\bin\Debug\net7.0\keyemulator-service.exe
+C:\Users\asp1r\OneDrive\Документы\snglrtycrvtureofspce\Git\keyemulator-service\keyemulator-service\bin\Debug\net7.0\keyemulator-service.deps.json
+C:\Users\asp1r\OneDrive\Документы\snglrtycrvtureofspce\Git\keyemulator-service\keyemulator-service\bin\Debug\net7.0\keyemulator-service.runtimeconfig.json
+C:\Users\asp1r\OneDrive\Документы\snglrtycrvtureofspce\Git\keyemulator-service\keyemulator-service\bin\Debug\net7.0\keyemulator-service.dll
+C:\Users\asp1r\OneDrive\Документы\snglrtycrvtureofspce\Git\keyemulator-service\keyemulator-service\bin\Debug\net7.0\keyemulator-service.pdb
+C:\Users\asp1r\OneDrive\Документы\snglrtycrvtureofspce\Git\keyemulator-service\keyemulator-service\bin\Debug\net7.0\WindowsInput.dll
+C:\Users\asp1r\OneDrive\Документы\snglrtycrvtureofspce\Git\keyemulator-service\keyemulator-service\obj\Debug\net7.0\keyemulator-service.csproj.AssemblyReference.cache
+C:\Users\asp1r\OneDrive\Документы\snglrtycrvtureofspce\Git\keyemulator-service\keyemulator-service\obj\Debug\net7.0\keyemulator-service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asp1r\OneDrive\Документы\snglrtycrvtureofspce\Git\keyemulator-service\keyemulator-service\obj\Debug\net7.0\keyemulator-service.AssemblyInfoInputs.cache
+C:\Users\asp1r\OneDrive\Документы\snglrtycrvtureofspce\Git\keyemulator-service\keyemulator-service\obj\Debug\net7.0\keyemulator-service.AssemblyInfo.cs
+C:\Users\asp1r\OneDrive\Документы\snglrtycrvtureofspce\Git\keyemulator-service\keyemulator-service\obj\Debug\net7.0\keyemulator-service.csproj.CoreCompileInputs.cache
+C:\Users\asp1r\OneDrive\Документы\snglrtycrvtureofspce\Git\keyemulator-service\keyemulator-service\obj\Debug\net7.0\keyemulator-service.csproj.CopyComplete
+C:\Users\asp1r\OneDrive\Документы\snglrtycrvtureofspce\Git\keyemulator-service\keyemulator-service\obj\Debug\net7.0\keyemulator-service.dll
+C:\Users\asp1r\OneDrive\Документы\snglrtycrvtureofspce\Git\keyemulator-service\keyemulator-service\obj\Debug\net7.0\refint\keyemulator-service.dll
+C:\Users\asp1r\OneDrive\Документы\snglrtycrvtureofspce\Git\keyemulator-service\keyemulator-service\obj\Debug\net7.0\keyemulator-service.pdb
+C:\Users\asp1r\OneDrive\Документы\snglrtycrvtureofspce\Git\keyemulator-service\keyemulator-service\obj\Debug\net7.0\keyemulator-service.genruntimeconfig.cache
+C:\Users\asp1r\OneDrive\Документы\snglrtycrvtureofspce\Git\keyemulator-service\keyemulator-service\obj\Debug\net7.0\ref\keyemulator-service.dll
